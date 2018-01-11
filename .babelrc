@@ -1,0 +1,6 @@
+{
+	"presents": [
+		["latest", {"modules": false}],
+		"react"
+	]
+}
